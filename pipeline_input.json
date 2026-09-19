@@ -1,0 +1,43 @@
+{
+    "formulation_profile": {
+        "formulation_name": "Ashwagandha capsule",
+        "applicant_type": "indian_startup_msme",
+        "ingredients": [
+            {
+                "sanskrit_name": "Ashwangandh",
+                "botanical_name": "Withania somnifera",
+                "plant_part": "root",
+                "sourcing_method": "wild_collected"
+            }
+        ],
+        "classical_reference": {
+            "is_based_on_classical_text": true,
+            "base_text_name": "Ayurvedic classical reference",
+            "degree_of_modification": "extracted_active_fractions"
+        },
+        "standardization_level": "quantitatively_standardized_marker_extract",
+        "target_delivery_form": "capsule]",
+        "synergistic_data_provided": true,
+        "foreign_shareholding": false
+    },
+    "classification": {
+        "regulatory_classification": {
+            "classification": "Phytopharmaceutical Drug",
+            "basis": "Quantitatively standardized marker extract with specified modification",
+            "reference": "CDSCO Rule 2(bb) / New Drugs Rules 2019",
+            "confidence": "source-derived project rule; verify applicable provision"
+        },
+        "abs_assessment": {
+            "route": "SBB notification / ABS compliance assessment",
+            "trigger": "Wild-collected biological resource",
+            "reference": "BDA Section 7",
+            "status": "Requires verification"
+        },
+        "patent_screening": {
+            "screening_flag": "POTENTIALLY RELEVANT FOR FURTHER PATENT ASSESSMENT",
+            "reason": "Standardized marker extract with synergistic evidence",
+            "reference": "Supplied project screening logic",
+            "action": "Perform full patentability and prior-art assessment"
+        }
+    }
+}
